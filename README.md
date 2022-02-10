@@ -9,6 +9,7 @@ Finally, physics is embedded into this active learning process by scalarizing th
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinroccapriore/AE-DKL/blob/main/AE_STEM_DKL_BO.ipynb)
 
 The following bade is a link to the data itself
+
 <a href="https://zenodo.org/badge/latestdoi/393487561"><img src="https://zenodo.org/badge/393487561.svg" alt="DOI"></a>
 
 
